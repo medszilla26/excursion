@@ -6,6 +6,11 @@ body {
   display: grid;
   align-content: center;
 }
+video,
+img {
+    display: block;
+    margin: 0 auto;
+}
 h1,
 h2,
 h3,
